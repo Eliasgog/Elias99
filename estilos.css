@@ -1,0 +1,100 @@
+div {
+
+}
+
+.letras{
+	 position: absolute;
+  top:  100px;
+  left: 187px;
+}
+
+.logo{
+	 position: absolute;
+  top:  10px;
+  left: 420px;
+}
+
+.letras13{
+	position:absolute;
+	top:90px;
+	left:520px;
+}
+
+.descar{
+	position:absolute;
+	top:120px;
+	left:190px;
+}
+
+.ten{
+	position:absolute;
+	top:50px;
+	left:1px;
+}
+
+.mir{
+	position:absolute;
+	top:70px;
+	left:1px;
+}
+
+.win98{
+	position:absolute;
+	top:20;
+	left:1;
+}
+
+.msdos{
+	position:absolute;
+	top:30;
+	left:180;
+}
+
+.msdos{
+	position:absolute;
+	top:19;
+	left:230;
+}
+
+.mac{
+	position:absolute;
+	top:19;
+	left:390;
+}
+
+.ker{
+	position:absolute;
+	top:110;
+	left:1;	
+}
+
+.hpe{
+	position:absolute;
+	top:20;
+	left:-180;
+}
+
+.ie{
+	position:absolute;
+	top:45;
+	left:-180;
+}
+
+.qs{
+	position:absolute;
+	top:160;
+	left:-180;
+
+}
+
+.mail{
+	position:absolute;
+	top:190;
+	left:-180;
+}
+
+.encon{
+	position:absolute;
+	top:110;
+	left:400;
+}
